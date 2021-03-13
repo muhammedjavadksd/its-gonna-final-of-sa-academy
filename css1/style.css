@@ -478,6 +478,7 @@ button:hover {
 @media (max-width: 415px) {
   .w3l-pricing-7-main .pricing-sec-7 {
     width: 100%;
+    margin-top: 87px;
   }
 
   .w3l-pricing-7-main .copy-right p {
